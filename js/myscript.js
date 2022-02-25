@@ -11,10 +11,9 @@ for(let i = 1; i <= 100; i++){
 
     if(i%3 == 0 && i%5 == 0){
         box.innerHTML = "FizzBuzz";
-        box.classList.add("my-blue");
+        box.classList.add("my-blue","text-white");
 
     }
-
     else if(i%3 == 0){
         box.innerHTML = "Fizz";
         box.classList.add("my-green");
