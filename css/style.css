@@ -2,3 +2,21 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.box{
+    background-color: rgb(228, 220, 220);
+    height: 5rem;
+    width: 5rem;
+    margin: .2rem;  
+}
+
+.my-blue{
+    background-color: #6F00FF;
+}
+
+.my-green{
+    background-color: lime;
+}
+
+.my-pink{
+    background-color: rgb(230, 83, 107);
+}
